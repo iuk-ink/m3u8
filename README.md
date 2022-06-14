@@ -2,11 +2,9 @@
 
 ## 在线观看
 
-[](?_blank)
 <a href="https://player.iuk.ink/m3u8.php?url=https://cdn.jsdelivr.net/gh/iuk-ink/m3u8@master/Mysterious_Girl_X/1/index.m3u8" target="_blank">第一集</a>
 
-
-第二集：https://player.iuk.ink/m3u8.php?url=https://cdn.jsdelivr.net/gh/iuk-ink/m3u8@master/Mysterious_Girl_X/2/index.m3u8
+<a href="https://player.iuk.ink/m3u8.php?url=https://cdn.jsdelivr.net/gh/iuk-ink/m3u8@master/Mysterious_Girl_X/2/index.m3u8" target="_blank">第二集</a>
 
 第三集：https://player.iuk.ink/m3u8.php?url=https://cdn.jsdelivr.net/gh/iuk-ink/m3u8@master/Mysterious_Girl_X/3/index.m3u8
 
